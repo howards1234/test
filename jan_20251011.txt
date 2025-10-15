@@ -1,0 +1,5 @@
+JSON處理：後端/前端解析被包在 data.raw 的 字串或 ```json 代碼區塊；移除圍欄、反跳脫與 JSON.parse() 的兩段式解析；最終產出 data.summaries 結構供畫面渲染。
+
+UI 技術：Tailwind CSS 佈局、marked.js 將 Markdown 總結轉 HTML、卡片與 chip 呈現、原始 JSON 調試面板。
+
+SQL/PostgreSQL：避免整段 SQL 被雙引號包裹；識別字雙引號僅用於表/欄位；參數化查詢 $1,$2,$3 與 Query Parameters；動態表名的處理。
