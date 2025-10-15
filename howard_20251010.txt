@@ -1,0 +1,1 @@
+CORS：跨網域原理、預檢 OPTIONS、必要回應標頭 Access-Control-Allow-*、前端/後端對應修法。
