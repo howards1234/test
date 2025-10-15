@@ -1,0 +1,1 @@
+HTTP/前端：fetch() 以 application/json POST、請求/回應標頭、超時與錯誤處理、Bearer Token。
